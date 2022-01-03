@@ -102,7 +102,7 @@
             "label": "Tabella degli incantesimi casuali",
             "path": "./packs/tabella-degli-incantesimi-casuali.db",
             "entity": "RollTable"
-        },
+        }
      ],
     "url": "https://github.com/Giova84ish/crucesignati-content",
     "manifest": "https://github.com/Giova84ish/crucesignati-content/releases/download/1.0.0/module.json",
