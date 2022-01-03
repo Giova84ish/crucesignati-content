@@ -86,18 +86,6 @@
             "entity": "Item"
         },
         {
-            "name": "bestiario",
-            "label": "Bestiario",
-            "path": "./packs/bestiario.db",
-            "entity": "Actor"
-        },
-        {
-            "name": "tabella-degli-incontri",
-            "label": "Tabella degli incontri",
-            "path": "./packs/tabella-degli-incontri.db",
-            "entity": "RollTable"
-        },
-        {
             "name": "tabella-degli-oggetti",
             "label": "Tabella degli oggetti",
             "path": "./packs/tabella-degli-oggetti.db",
@@ -110,24 +98,12 @@
             "entity": "RollTable"
         },
         {
-            "name": "evocare-mostri",
-            "label": "Evocare mostri",
-            "path": "./packs/evocare-mostri.db",
-            "entity": "RollTable"
-        },
-        {
             "name": "incantesimi-casuali",
             "label": "Tabella degli incantesimi casuali",
             "path": "./packs/tabella-degli-incantesimi-casuali.db",
             "entity": "RollTable"
         },
-        {
-            "name": "regole-adnd",
-            "label": "Regole AD&D",
-            "path": "./packs/regole-adnd.db",
-            "entity": "JournalEntry"
-        }
-    ],
+     ],
     "url": "https://github.com/Giova84ish/crucesignati_content/tree/master",
     "manifest": "https://github.com/Giova84ish/crucesignati_content/tree/master/system.json",
     "license": "OGL.txt"
