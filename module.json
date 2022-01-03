@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "author": "Giovanni Gori",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "0.8.7",
+    "compatibleCoreVersion": "9.0",
     "packs": [
         {
             "name": "abilita-da-chierico",
@@ -104,7 +104,8 @@
             "entity": "RollTable"
         },
      ],
-    "url": "https://github.com/Giova84ish/crucesignati_content/tree/master",
-    "manifest": "https://github.com/Giova84ish/crucesignati_content/tree/master/system.json",
-    "license": "OGL.txt"
+    "url": "https://github.com/Giova84ish/crucesignati-content",
+    "manifest": "https://github.com/Giova84ish/crucesignati-content/releases/download/1.0.0/module.json",
+    "license": "OGL.txt",
+    "download": "https://github.com/Giova84ish/crucesignati-content/releases/download/1.0.0/crucesignati-content.zip"
   }
