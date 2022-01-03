@@ -1,0 +1,134 @@
+{
+    "name": "crucesignati_content",
+    "title": "Contenuti per Crucesignati Old School Gaming",
+    "description": "Raccolta di incantesimi, tabelle, oggetti magici ed altri elementi.",
+    "version": "1.0.0",
+    "author": "Giovanni Gori",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.7",
+    "packs": [
+        {
+            "name": "abilita-da-chierico",
+            "label": "Abilità da chierico",
+            "path": "./packs/abilita-da-chierico.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-druido",
+            "label": "Abilità da druido",
+            "path": "./packs/abilita-da-druido.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-elfo",
+            "label": "Abilità da elfo",
+            "path": "./packs/abilita-da-elfo.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-ladro",
+            "label": "Abilità da ladro",
+            "path": "./packs/abilita-da-ladro.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-halfling",
+            "label": "Abilità da halfling",
+            "path": "./packs/abilita-da-halfling.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-ranger",
+            "label": "Abilità da ranger",
+            "path": "./packs/abilita-da-ranger.db",
+            "entity": "Item"
+        },
+        {
+            "name": "armature",
+            "label": "Armature",
+            "path": "./packs/armature.db",
+            "entity": "Item"
+        },
+        {
+            "name": "armi",
+            "label": "Armi",
+            "path": "./packs/armi.db",
+            "entity": "Item"
+        },
+        {
+            "name": "equipaggiamento",
+            "label": "Equipaggiamento",
+            "path": "./packs/equipaggiamento.db",
+            "entity": "Item"
+        },
+        {
+            "name": "incantesimi",
+            "label": "Incantesimi",
+            "path": "./packs/incantesimi.db",
+            "entity": "Item "
+        },
+        {
+            "name": "monete",
+            "label": "Monete",
+            "path": "./packs/monete.db",
+            "entity": "Item"
+        },
+        {
+            "name": "munizioni",
+            "label": "Munizioni",
+            "path": "./packs/munizioni.db",
+            "entity": "Item"
+        },
+        {
+            "name": "oggetti-magici",
+            "label": "Oggetti magici",
+            "path": "./packs/oggetti-magici.db",
+            "entity": "Item"
+        },
+        {
+            "name": "bestiario",
+            "label": "Bestiario",
+            "path": "./packs/bestiario.db",
+            "entity": "Actor"
+        },
+        {
+            "name": "tabella-degli-incontri",
+            "label": "Tabella degli incontri",
+            "path": "./packs/tabella-degli-incontri.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "tabella-degli-oggetti",
+            "label": "Tabella degli oggetti",
+            "path": "./packs/tabella-degli-oggetti.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "tabella-dei-tesori",
+            "label": "Tabella dei tesori",
+            "path": "./packs/tabella-dei-tesori.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "evocare-mostri",
+            "label": "Evocare mostri",
+            "path": "./packs/evocare-mostri.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "incantesimi-casuali",
+            "label": "Tabella degli incantesimi casuali",
+            "path": "./packs/tabella-degli-incantesimi-casuali.db",
+            "entity": "RollTable"
+        },
+        {
+            "name": "regole-adnd",
+            "label": "Regole AD&D",
+            "path": "./packs/regole-adnd.db",
+            "entity": "JournalEntry"
+        }
+    ],
+    "url": "",
+    "manifest": "",
+    "license": "OGL.txt"
+  }
