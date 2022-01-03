@@ -128,7 +128,7 @@
             "entity": "JournalEntry"
         }
     ],
-    "url": "",
-    "manifest": "",
+    "url": "https://github.com/Giova84ish/crucesignati_content/tree/master",
+    "manifest": "https://github.com/Giova84ish/crucesignati_content/tree/master/system.json",
     "license": "OGL.txt"
   }
