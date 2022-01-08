@@ -2,10 +2,10 @@
     "name": "crucesignati-content",
     "title": "Contenuti per Crucesignati Old School Gaming",
     "description": "Raccolta di incantesimi, tabelle, oggetti magici ed altri elementi.",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "author": "Giovanni Gori",
     "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "9.0",
+    "compatibleCoreVersion": "0.8.9",
     "packs": [
         {
             "name": "abilita-da-chierico",
@@ -26,9 +26,39 @@
             "entity": "Item"
         },
         {
+            "name": "abilita-da-guerriero",
+            "label": "Abilità da guerriero",
+            "path": "./packs/abilita-da-guerriero.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-mago",
+            "label": "Abilità da mago",
+            "path": "./packs/abilita-da-mago.db",
+            "entity": "Item"
+        },
+        {
             "name": "abilita-da-ladro",
             "label": "Abilità da ladro",
             "path": "./packs/abilita-da-ladro.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-ranger",
+            "label": "Abilità da ranger",
+            "path": "./packs/abilita-da-ranger.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-paladino",
+            "label": "Abilità da paladino",
+            "path": "./packs/abilita-da-paladino.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-umano",
+            "label": "Abilità da umano",
+            "path": "./packs/abilita-da-umano.db",
             "entity": "Item"
         },
         {
@@ -38,9 +68,15 @@
             "entity": "Item"
         },
         {
-            "name": "abilita-da-ranger",
-            "label": "Abilità da ranger",
-            "path": "./packs/abilita-da-ranger.db",
+            "name": "abilita-da-mezzelfo",
+            "label": "Abilità da mezzelfo",
+            "path": "./packs/abilita-da-mezzelfo.db",
+            "entity": "Item"
+        },
+        {
+            "name": "abilita-da-nano",
+            "label": "Abilità da nano",
+            "path": "./packs/abilita-da-nano.db",
             "entity": "Item"
         },
         {
@@ -103,9 +139,15 @@
             "path": "./packs/tabella-degli-incantesimi-casuali.db",
             "entity": "RollTable"
         },
+        {
+            "name": "regole-base",
+            "label": "Regole Base",
+            "path": "./packs/regole-base.db",
+            "entity": "JournalEntry"
+        }
      ],
     "url": "https://github.com/Giova84ish/crucesignati-content",
-    "manifest": "https://github.com/Giova84ish/crucesignati-content/releases/download/1.0.0/module.json",
+    "manifest": "https://github.com/Giova84ish/crucesignati-content/releases/download/2.0.0/module.json",
     "license": "OGL.txt",
-    "download": "https://github.com/Giova84ish/crucesignati-content/releases/download/1.0.0/crucesignati-content.zip"
+    "download": "https://github.com/Giova84ish/crucesignati-content/releases/download/2.0.0/crucesignati-content.zip"
   }
