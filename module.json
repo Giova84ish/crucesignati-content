@@ -3,7 +3,7 @@
     "name": "crucesignati-content",
     "title": "Contenuti per Crucesignati Old School Gaming",
     "description": "Raccolta di incantesimi, tabelle, oggetti magici ed altri elementi.",
-    "version": "4.0.0",
+    "version": "3.0.0",
     "author": "Giovanni Gori",
     "authors": [
         {
@@ -176,7 +176,7 @@
         }
      ],
     "url": "https://github.com/Giova84ish/crucesignati-content",
-    "manifest": "https://github.com/Giova84ish/crucesignati-content/releases/download/2.0.0/module.json",
+    "manifest": "https://github.com/Giova84ish/crucesignati-content/releases/download/3.0.0/module.json",
     "license": "OGL.txt",
-    "download": "https://github.com/Giova84ish/crucesignati-content/releases/download/2.0.0/crucesignati-content.zip"
+    "download": "https://github.com/Giova84ish/crucesignati-content/releases/download/3.0.0/crucesignati-content.zip"
   }
