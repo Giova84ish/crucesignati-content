@@ -1,149 +1,178 @@
 {
+    "id": "crucesignati-content",
     "name": "crucesignati-content",
     "title": "Contenuti per Crucesignati Old School Gaming",
     "description": "Raccolta di incantesimi, tabelle, oggetti magici ed altri elementi.",
-    "version": "2.0.0",
+    "version": "4.0.0",
     "author": "Giovanni Gori",
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "0.8.9",
+    "authors": [
+        {
+            "name": "Giovanni Gori"
+        }
+    ],
+    "minimumCoreVersion" : "10.288",
+    "compatibleCoreVersion" : 10,
     "packs": [
         {
             "name": "abilita-da-chierico",
             "label": "Abilità da chierico",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-chierico.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-druido",
             "label": "Abilità da druido",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-druido.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-elfo",
             "label": "Abilità da elfo",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-elfo.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-guerriero",
             "label": "Abilità da guerriero",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-guerriero.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-mago",
             "label": "Abilità da mago",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-mago.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-ladro",
             "label": "Abilità da ladro",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-ladro.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-ranger",
             "label": "Abilità da ranger",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-ranger.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-paladino",
             "label": "Abilità da paladino",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-paladino.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-umano",
             "label": "Abilità da umano",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-umano.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-halfling",
             "label": "Abilità da halfling",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-halfling.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-mezzelfo",
             "label": "Abilità da mezzelfo",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-mezzelfo.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "abilita-da-nano",
             "label": "Abilità da nano",
+            "system": "crucesignati",
             "path": "./packs/abilita-da-nano.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "armature",
             "label": "Armature",
+            "system": "crucesignati",
             "path": "./packs/armature.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "armi",
             "label": "Armi",
+            "system": "crucesignati",
             "path": "./packs/armi.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "equipaggiamento",
             "label": "Equipaggiamento",
+            "system": "crucesignati",
             "path": "./packs/equipaggiamento.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "incantesimi",
             "label": "Incantesimi",
+            "system": "crucesignati",
             "path": "./packs/incantesimi.db",
-            "entity": "Item "
+            "type": "Item "
         },
         {
             "name": "monete",
             "label": "Monete",
+            "system": "crucesignati",
             "path": "./packs/monete.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "munizioni",
             "label": "Munizioni",
+            "system": "crucesignati",
             "path": "./packs/munizioni.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "oggetti-magici",
             "label": "Oggetti magici",
+            "system": "crucesignati",
             "path": "./packs/oggetti-magici.db",
-            "entity": "Item"
+            "type": "Item"
         },
         {
             "name": "tabella-degli-oggetti",
             "label": "Tabella degli oggetti",
+            "system": "crucesignati",
             "path": "./packs/tabella-degli-oggetti.db",
-            "entity": "RollTable"
+            "type": "RollTable"
         },
         {
             "name": "tabella-dei-tesori",
             "label": "Tabella dei tesori",
+            "system": "crucesignati",
             "path": "./packs/tabella-dei-tesori.db",
-            "entity": "RollTable"
+            "type": "RollTable"
         },
         {
             "name": "incantesimi-casuali",
             "label": "Tabella degli incantesimi casuali",
+            "system": "crucesignati",
             "path": "./packs/tabella-degli-incantesimi-casuali.db",
-            "entity": "RollTable"
+            "type": "RollTable"
         },
         {
             "name": "regole-base",
             "label": "Regole Base",
+            "system": "crucesignati",
             "path": "./packs/regole-base.db",
-            "entity": "JournalEntry"
+            "type": "JournalEntry"
         }
      ],
     "url": "https://github.com/Giova84ish/crucesignati-content",
